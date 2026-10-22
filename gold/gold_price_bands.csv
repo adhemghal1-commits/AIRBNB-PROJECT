@@ -1,0 +1,51 @@
+﻿city,price_band,listings
+Amsterdam,under 100,0
+Amsterdam,100-200,7
+Amsterdam,200-300,10
+Amsterdam,300-400,8
+Amsterdam,400+,19
+Athens,under 100,35
+Athens,100-200,11
+Athens,200-300,0
+Athens,300-400,0
+Athens,400+,0
+Barcelona,under 100,0
+Barcelona,100-200,27
+Barcelona,200-300,17
+Barcelona,300-400,4
+Barcelona,400+,0
+Berlin,under 100,0
+Berlin,100-200,21
+Berlin,200-300,18
+Berlin,300-400,4
+Berlin,400+,1
+Budapest,under 100,7
+Budapest,100-200,30
+Budapest,200-300,7
+Budapest,300-400,1
+Budapest,400+,0
+Lisbon,under 100,3
+Lisbon,100-200,35
+Lisbon,200-300,8
+Lisbon,300-400,1
+Lisbon,400+,1
+London,under 100,0
+London,100-200,4
+London,200-300,17
+London,300-400,10
+London,400+,15
+Paris,under 100,0
+Paris,100-200,11
+Paris,200-300,13
+Paris,300-400,16
+Paris,400+,4
+Rome,under 100,0
+Rome,100-200,31
+Rome,200-300,14
+Rome,300-400,2
+Rome,400+,0
+Vienna,under 100,0
+Vienna,100-200,7
+Vienna,200-300,21
+Vienna,300-400,11
+Vienna,400+,5

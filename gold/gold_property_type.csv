@@ -1,0 +1,43 @@
+﻿city,property_type,listings,avg_price,avg_rating
+Amsterdam,Entire condo,6,460.83,4.89
+Amsterdam,Entire cottage,1,162.25,4.92
+Amsterdam,Entire guest suite,2,465.62,4.93
+Amsterdam,Entire guesthouse,3,244.33,4.84
+Amsterdam,Entire home,6,272.21,4.89
+Amsterdam,Entire loft,1,375.75,4.92
+Amsterdam,Entire rental unit,17,376.38,4.81
+Amsterdam,Entire serviced apartment,5,309.65,4.62
+Amsterdam,Houseboat,2,649.25,4.98
+Athens,Entire condo,15,89.44,4.88
+Athens,Entire home,2,96.0,4.88
+Athens,Entire rental unit,29,88.19,4.87
+Barcelona,Entire condo,3,175.0,4.93
+Barcelona,Entire rental unit,43,203.72,4.82
+Barcelona,Entire serviced apartment,2,159.5,4.66
+Berlin,Entire condo,3,201.08,4.84
+Berlin,Entire loft,2,212.88,4.92
+Berlin,Entire rental unit,35,225.19,4.88
+Berlin,Entire serviced apartment,3,224.0,4.83
+Berlin,Room in aparthotel,1,197.75,4.76
+Budapest,Entire condo,13,164.11,4.87
+Budapest,Entire rental unit,32,150.36,4.89
+Lisbon,Entire condo,3,168.49,4.95
+Lisbon,Entire home,2,123.62,4.88
+Lisbon,Entire loft,1,221.5,5.0
+Lisbon,Entire rental unit,42,163.04,4.87
+London,Entire condo,10,345.42,4.82
+London,Entire home,2,263.75,4.77
+London,Entire place,1,457.5,4.86
+London,Entire rental unit,30,326.12,4.89
+London,Entire serviced apartment,2,378.38,4.92
+London,Entire townhouse,1,979.0,
+Paris,Entire condo,2,216.62,4.92
+Paris,Entire rental unit,42,286.11,4.86
+Rome,Entire condo,15,187.83,4.92
+Rome,Entire rental unit,27,189.77,4.89
+Rome,Entire serviced apartment,1,182.75,4.95
+Rome,Entire vacation home,3,186.92,4.9
+Rome,Entire villa,1,142.0,4.89
+Vienna,Entire condo,1,509.25,5.0
+Vienna,Entire rental unit,41,299.68,4.85
+Vienna,Entire serviced apartment,2,265.75,4.77
